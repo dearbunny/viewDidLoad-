@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9A8795C126291C0B00B30FD8 /* 11265478@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A8795C026291C0B00B30FD8 /* 11265478@2x.png */; };
 		9AA636822628405800B2274C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AA636812628405800B2274C /* AppDelegate.swift */; };
 		9AA636842628405800B2274C /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AA636832628405800B2274C /* SceneDelegate.swift */; };
 		9AA636862628405800B2274C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AA636852628405800B2274C /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9A8795C026291C0B00B30FD8 /* 11265478@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "11265478@2x.png"; sourceTree = "<group>"; };
 		9AA6367E2628405800B2274C /* viewDidLoad海洋世界魚兒游.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "viewDidLoad海洋世界魚兒游.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9AA636812628405800B2274C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9AA636832628405800B2274C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 				9AA636832628405800B2274C /* SceneDelegate.swift */,
 				9AA636852628405800B2274C /* ViewController.swift */,
 				9AA636872628405800B2274C /* Main.storyboard */,
+				9A8795C026291C0B00B30FD8 /* 11265478@2x.png */,
 				9AA6368A2628405900B2274C /* Assets.xcassets */,
 				9AA6368C2628405900B2274C /* LaunchScreen.storyboard */,
 				9AA6368F2628405900B2274C /* Info.plist */,
@@ -126,6 +129,7 @@
 			files = (
 				9AA6368E2628405900B2274C /* LaunchScreen.storyboard in Resources */,
 				9AA6368B2628405900B2274C /* Assets.xcassets in Resources */,
+				9A8795C126291C0B00B30FD8 /* 11265478@2x.png in Resources */,
 				9AA636892628405800B2274C /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
